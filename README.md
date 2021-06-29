@@ -4,7 +4,7 @@ My name is
 
 **Rafael Mariano Monteiro**
 
-- 🔭 I’m currently working on angular and ionic
+- 🔭 I’m currently working on angular, ionic and nodejs with nestjs
 - 🌱 I’m currently learning java, MySQl and Mongo db
 - 👯 I’m looking to collaborate with open source projects
 - 🤔 I’m looking for help with documentation of programming languages
